@@ -8,3 +8,8 @@ First paragraph in section B.
 
 ## Section C
 First paragraph in section C.
+
+## Overflow
+
+`Add` and `Mul` now return `ErrOverflow` instead of wrapping around.
+Callers must check the error.
