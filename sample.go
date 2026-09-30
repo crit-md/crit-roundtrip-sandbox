@@ -17,3 +17,5 @@ func Div(a, b int) int {
 }
 
 func Mod(a, b int) int { return a % b }
+
+func Abs(a int) int { if a < 0 { return -a }; return a }
