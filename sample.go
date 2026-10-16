@@ -25,3 +25,5 @@ func Temp2() {}
 func Temp3() {}
 
 func Temp4() {}
+
+func Temp5() {}
