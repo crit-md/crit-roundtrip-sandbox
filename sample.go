@@ -19,3 +19,5 @@ func Div(a, b int) int {
 func Mod(a, b int) int { return a % b }
 
 func Temp1() {}
+
+func Temp2() {}
